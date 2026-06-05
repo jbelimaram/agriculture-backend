@@ -1,0 +1,23 @@
+# Environnement virtuel
+.venv/
+venv/
+env/
+ENV/
+
+# Fichiers Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Variables d'environnement (contenant les secrets)
+.env
+
+# Dossiers d'upload (contenu généré, pas à versionner)
+uploads/
+
+# Fichiers logs
+*.log
+
+# IDE
+.vscode/
+.idea/"test.py" 
